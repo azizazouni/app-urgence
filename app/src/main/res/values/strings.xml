@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">urgences</string>
+    <string name="welcomeText">application d urgences </string>
+    <string name="login">login not implemented yet </string>
+</resources>
